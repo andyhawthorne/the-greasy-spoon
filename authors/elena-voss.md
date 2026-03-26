@@ -1,10 +1,10 @@
 ---
-title: Elena Voss
-avatar: "[[elena.jpg]]"
-image: "[[elena.jpg]]"
+title: Andy Hawthorne
+avatar: "[[andy.jpg]]"
+image: "[[andy.jpg]]"
 showComments: false
 ---
 
-![[elena.jpg|300]]
+![[andy.jpg|300]]
 
-Poet and essayist based in Berlin. Her work explores the intersections of language, memory, and visual culture. She teaches creative writing at Humboldt University.
+Indie author based in coventry, England. Also an old bloke who sits in cafes having a moan. 
