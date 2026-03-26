@@ -13,14 +13,9 @@
   },
   "social": [
     {
-      "label": "x",
-      "href": "#",
-      "name": "X"
-    },
-    {
-      "label": "substack",
-      "href": "#",
-      "name": "Substack"
+      "label": "email",
+      "href": "[EMAIL_ADDRESS]",
+      "name": "Email"
     }
   ],
   "theme": {
